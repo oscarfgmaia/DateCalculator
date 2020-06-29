@@ -1,5 +1,3 @@
-package trabalho;
-
 public class Datas_Q1 {
 	private int dia, mes, ano;
 
